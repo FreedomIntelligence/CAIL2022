@@ -8,6 +8,9 @@
  pip install -r requirements.txt
 ```
 
+### Download the pretrained models
+Download the pretrained XLNET and T5 models
+
 ### First Stage
 You can train the first-stage model by:
 
