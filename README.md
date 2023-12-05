@@ -3,7 +3,15 @@
 ## ⚡ Introduction
 
 ## ⚒️ Training
-You can train the model by:
+### Install the dependencies
+```
+ pip install -r requirements.txt
+```
 
-```cd train-stage 1
+### First Stage
+You can train the first-stage model by:
+
+```
+ cd train-stage1
+ bash run.sh
 ```
