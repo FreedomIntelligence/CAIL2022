@@ -19,4 +19,4 @@ You can train the first-stage model by:
 
 ## 🏆 Awards
 
-## ⚒📕 Citation
+## 📕 Citation
