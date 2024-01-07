@@ -69,4 +69,6 @@ bash run.sh
 
 ## 🏆 Awards
 Our method won the first prize in 2022 CAIL Summary of Legal Public Opinion.
+
+![pic](image/award.png)
 ## 📕 Citation
