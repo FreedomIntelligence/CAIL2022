@@ -56,7 +56,7 @@ python3 evaluate.py > evaluate.out
 ```
 
 ### Evaluation
-1️⃣ Put the extractive models in `e2e/extractor_model/` folder, abstractive model in `e2e/generator_model` folder and test data in the folder `e2e/data_dir/`
+1️⃣ Put the extractive models in `e2e/extractor_model/` folder, abstractive model in `e2e/generator_model` folder and test data in the folder `e2e/data_dir/` and change the path of your downloaded XLNET and T5 models.
 
 2️⃣ Fill the same `best_model_index_list` in `extractor.py` and their corresponsing index as **Training First Stage**
 
