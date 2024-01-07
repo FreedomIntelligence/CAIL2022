@@ -9,7 +9,7 @@
 ```
 
 ### Download the pretrained models
-Download the pretrained XLNET and T5 models
+Download the pretrained XLNET and T5 models into `train-stage1` and `train-stage2`
 
 **XLNET:**(https://huggingface.co/hfl/chinese-xlnet-mid)
 
