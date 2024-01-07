@@ -10,6 +10,8 @@
 
 ### Download the pretrained models
 Download the pretrained XLNET and T5 models
+**XLNET:**(https://huggingface.co/hfl/chinese-xlnet-mid)
+**T5:**(https://huggingface.co/imxly/t5-pegasus)
 
 ### First Stage
 You can train the first-stage model by:
