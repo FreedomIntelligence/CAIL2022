@@ -1,0 +1,7 @@
+jieba==0.42.1
+numpy==1.18.5
+pandas==1.0.5
+rouge==1.0.1
+torch==1.7.1+cu110
+tqdm==4.47.0
+transformers==4.4.2
